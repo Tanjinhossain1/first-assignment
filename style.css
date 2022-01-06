@@ -166,7 +166,7 @@ section{
 #colored{
     color: turquoise;
 }
-#center{
+.center{
     text-align: center;
     
     background-color: black;
