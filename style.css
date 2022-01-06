@@ -152,7 +152,7 @@ section{
 }
 .left-side{
     margin-left: 300px;
-    margin-bottom: 400px;
+    margin-bottom: 100px;
 }
 #color-box{
     border: 1px solid red;
@@ -162,4 +162,16 @@ section{
     padding: 25px;
     padding-left: 100px;
     margin-bottom: 200px;
+}
+#colored{
+    color: turquoise;
+}
+#center{
+    text-align: center;
+    
+    background-color: black;
+    height: 200px;
+}
+.one-color{
+    color: white;
 }
