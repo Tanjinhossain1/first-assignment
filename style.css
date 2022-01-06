@@ -18,7 +18,7 @@ h1{
     margin: 10px;
 }
 .color{
-    color: rgb(107, 205, 50);
+    color: rgb(212, 199, 80);
 }
 #change-color{
     color: rgb(236, 83, 12);
@@ -35,7 +35,7 @@ h1{
     font-size: 15px;
     padding-left: 40px;
     padding-right: 40px;
-    background-color: tomato;
+    background-color: red;
     border-radius: 10px;
     margin: 120px ;
 }
@@ -115,20 +115,22 @@ section{
     margin-left: 200px;
 }
 #bordaring{
-    border: 1px solid tomato;
-    background-color: rgb(255, 81, 0);
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 10px;
     width: 35%;
-    padding: 25px;
+    padding: 20px;
     padding-left: 50px;
     color: whitesmoke;
 }
 #border-coloring{
         border: 1px solid red;
         background-color: red;
+        border-radius: 10px;
         color: rgb(227, 244, 248);
         width: 30%;
-        padding: 25px;
-        padding-left: 100px;
+        padding: 20px;
+        padding-left: 90px;
 }
 .text-photo{
     margin: 5%;
