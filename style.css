@@ -3,6 +3,7 @@ body{
 font-family: 'Cormorant Garamond', serif;
 font-family: 'Open Sans', sans-serif;
 font-family: 'Poppins', sans-serif;
+margin: 0;
 }
 h1{
     font-size: 50px;
@@ -48,7 +49,7 @@ section{
 #margine{
     margin-left: 200px;
 }
-#coloring{
+.coloring{
     color: salmon;
     
 }
@@ -58,8 +59,8 @@ section{
     margin-bottom: 150px;
 }
 #mission{
-    background-color: rgb(247, 240, 246);
-    border: 2px solid ;
+    background-color: rgb(248, 224, 245);
+    border: 3px solid;
     width: 20%;
     padding: 100px;
     height: 200px;
@@ -67,7 +68,6 @@ section{
     border-radius: 25px;
     color: rgb(19, 2, 18);
     
-
 }
 #vission{
     background-color: rgb(227, 244, 248);
@@ -75,25 +75,49 @@ section{
     width: 20% ;
     padding: 100px;
     height: 200px;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
     margin-left: 100px;
     border-radius: 25px;
-    
 }
 #goal{
     background-color: rgb(204, 238, 201);
     border: 2px solid ;
     width: 20%;
     height: 80%;
-    padding: 100px;height: 200px;
+    padding: 100px;
+    height: 200px;
     margin-left: 100px;
     border-radius: 25px;
 }
-#ad-image{
-    margin-right: 3px;
+#margin-left{
+    margin-left: 100px;
+}
+#left-margiin{
+    margin-left: 200px;
+}
+#bordaring{
+    border: 1px solid tomato;
+    background-color: rgb(255, 81, 0);
+    width: 35%;
+    padding: 25px;
+    color: whitesmoke;
+    
+}
+.text-photo{
+    margin: 5%;
+}
+#photo-left{
+    margin-right: 200px;
 }
 
-
-    
-
-
+#shape{
+    background-image: url(image/Untitled.j[g.png);
+    background-repeat: no-repeat;
+}
+#style{
+    background-image: url(image/best.jpg);
+}
+#first-shape{
+    background-image: url(image/tuku.png);
+    background-repeat: no-repeat;
+}
