@@ -100,8 +100,16 @@ section{
     background-color: rgb(255, 81, 0);
     width: 35%;
     padding: 25px;
+    padding-left: 50px;
     color: whitesmoke;
-    
+}
+#border-coloring{
+        border: 1px solid red;
+        background-color: red;
+        color: rgb(227, 244, 248);
+        width: 30%;
+        padding: 25px;
+        padding-left: 100px;
 }
 .text-photo{
     margin: 5%;
@@ -131,7 +139,27 @@ section{
 }
 #center-aling{
     text-align: center;
+    margin-bottom: 60px;
 }
 #colors{
-    color: rgb(100, 50, 167);
+    color: rgb(248, 139, 14);
+}
+#paper-color{
+    color: rgb(228, 56, 142);
+}
+#color-heading{
+    color: rgb(233, 133, 158);
+}
+.left-side{
+    margin-left: 300px;
+    margin-bottom: 400px;
+}
+#color-box{
+    border: 1px solid red;
+    background-color: red;
+    color: rgb(227, 244, 248);
+    width: 30%;
+    padding: 25px;
+    padding-left: 100px;
+    margin-bottom: 200px;
 }
