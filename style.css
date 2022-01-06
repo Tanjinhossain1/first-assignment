@@ -113,6 +113,7 @@ section{
 #shape{
     background-image: url(image/Untitled.j[g.png);
     background-repeat: no-repeat;
+
 }
 #style{
     background-image: url(image/best.jpg);
@@ -120,4 +121,17 @@ section{
 #first-shape{
     background-image: url(image/tuku.png);
     background-repeat: no-repeat;
+    
+}
+#color-head{
+    color: rgb(236, 16, 199);
+}
+#another-color{
+    color: rgb(218, 155, 38);
+}
+#center-aling{
+    text-align: center;
+}
+#colors{
+    color: rgb(100, 50, 167);
 }
