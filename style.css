@@ -60,9 +60,15 @@ section{
 }
 #mission{
     background-color: rgb(248, 224, 245);
-    border: 3px solid;
+    background-image: url(illustrators/illustrator-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position: top;
+    background-position-x: left;
+    background-position-y: top ;
+    background-position-x: 70px;
     width: 20%;
-    padding: 100px;
+    padding: 95px;
     height: 200px;
     margin-left: 100px;
     border-radius: 25px;
@@ -71,7 +77,13 @@ section{
 }
 #vission{
     background-color: rgb(227, 244, 248);
-    border: 2px solid ;
+    background-image: url(illustrators/illustrator-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position: top;
+    background-position-x: left;
+    background-position-y: top ;
+    background-position-x: 70px;
     width: 20% ;
     padding: 100px;
     height: 200px;
@@ -81,7 +93,13 @@ section{
 }
 #goal{
     background-color: rgb(204, 238, 201);
-    border: 2px solid ;
+    background-image: url(illustrators/illustrator-3.jpg);
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position: top;
+    background-position-x: left;
+    background-position-y: top ;
+    background-position-x: 70px;
     width: 20%;
     height: 80%;
     padding: 100px;
